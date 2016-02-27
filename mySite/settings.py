@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'es-mx'
 
-TIME_ZONE = 'GMT-6'
+TIME_ZONE = 'America'
 
 USE_I18N = True
 
